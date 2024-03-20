@@ -1,0 +1,9 @@
+.container-executors{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background-color: rgb(97, 59, 59);
+    margin: 10px auto;
+    max-width:1200px ;
+    min-width: 600px;
+
+}
