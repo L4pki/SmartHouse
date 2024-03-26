@@ -1,0 +1,24 @@
+.SendColor {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Button_Send_Color {
+  max-width: 80px;
+  min-height: 36px;
+  background-color: rgb(180, 162, 184);
+  border-radius: 7px;
+}
+
+.color_lamp {
+  min-width: 80px;
+}
+
+.color {
+  border-radius: 30px;
+
+  margin: 0px 0px 0 5px;
+  min-height: 165px;
+  background-color: rgb(74, 188, 233);
+}

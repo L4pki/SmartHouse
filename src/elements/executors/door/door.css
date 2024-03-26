@@ -1,0 +1,13 @@
+.button {
+  max-width: 80px;
+  min-height: 36px;
+  background-color: rgb(180, 162, 184);
+  border-radius: 7px;
+}
+.door {
+  border-radius: 30px;
+
+  margin: 10px 0px 0 5px;
+  min-height: 165px;
+  background-color: rgb(74, 188, 233);
+}

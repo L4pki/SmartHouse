@@ -1,8 +1,9 @@
-.container-sensors{
-    max-width:1200px ;
-    min-width: 600px;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    background-color: rgb(56, 56, 146);
-    margin: 10px auto;
+.container-sensors {
+  max-width: 1200px;
+  min-width: 600px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  background-color: rgb(57, 149, 185);
+  margin: 10px auto;
+  border-radius: 30px;
 }
